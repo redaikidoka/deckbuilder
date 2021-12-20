@@ -8,4 +8,6 @@ Ta ruby gem to help organize files in a directory to become a graphical DECK in 
 
 ## Usage
 
-Install deps: `gem install bundler && bundle install`.  Run `bundle exec rake` to run the tests, or `bundle exec rake run` to run the program.
+Install deps: `gem install bundler && bundle install`.  
+Run `bundle exec rake` to run the tests, or 
+`bundle exec rake run` to run the program.
